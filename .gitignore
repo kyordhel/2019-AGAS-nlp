@@ -1,0 +1,14 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+!CMakeLists.txt
+!package.xml
+!README.md
+!Chatbot-Eliza-1.08.tar.gz
+!slides.pdf
+# And these filetypes
+!*.py
+!*.dict
+# Even if they are in subdirectories
+!*/
