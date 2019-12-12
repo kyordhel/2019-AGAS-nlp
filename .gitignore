@@ -6,8 +6,8 @@
 !package.xml
 !README.md
 !Chatbot-Eliza-1.08.tar.gz
-!slides.pdf
 # And these filetypes
+!*.pdf
 !*.py
 !*.dict
 # Even if they are in subdirectories
